@@ -5,3 +5,14 @@
 .fondomenu2{
     background-color: #0CE85F;
 }
+
+.fuente{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 25px;
+    color: blue;
+}
+
+.fuente2{
+    font-family: 'Shantell Sans', cursive;
+    color: #0CE85F;
+}
